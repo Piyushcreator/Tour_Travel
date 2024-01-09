@@ -1,0 +1,4 @@
+
+# Exclude folders
+frontend/node_modules/
+backend/node_modules/
